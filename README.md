@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGsyeGtpdTJxcXAyY3Y4OW9oY2xicnVpYWE2ajVhYjNwYTFwMzZsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" />
 </div>
 
-
+---
 <h2  align="center">Links</h2>
 <div>
   <div  align="center">
@@ -46,8 +46,20 @@
 <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+<h2 align="center">👨‍🦱 About Me</h2>
+<div align="center">
+  <p>I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sunnyvale, CA.</p>
+  
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-<h2  align="center">Projects</h2>
+- :seedling: I'm also a Web Designer and Graphic Designer.
+
+- :zap: In my free time, I design web and logos.
+
+</div>
+
+---
+<h2  align="center">🗄️ Projects</h2>
 <div  align="center">
 <p>
     <a href="https://tunetrax.onrender.com/">TuneTrax</a> is a SoundClone clone group project.
@@ -64,7 +76,25 @@
 </div>
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<h2  align="center">Educations</h2>
+<h2  align="center">👨‍🎓 Educations</h2>
 <div  align="center">
-  <p>Software Enginner at App Academy</p>
+  <p>Software Engineer at App Academy</p>
+</br>
+  <p>Graphic Design & Digital Media at Academy of Art University</p> <p>Master of Arts - MA</p>
+</br>
+  <p>Graphic Design at University of Southampton</p> <p>Bachelor's degree</p>
+</br>
+  <p>Graphic Design at Dalian Polytechnic University</p> <p>Bachelor's degree</p>
+</div>
+
+
+---
+
+<h2 align="center"> :fire: My Stats :</h2>
+<div align="center">
+  <img src='https://github-readme-streak-stats.herokuapp.com?user=kaifunction&theme=radical&hide_border=true&background=000000' />
+</div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div align="center">
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=kaifunction&layout=compact&theme=vision-friendly-dark' />
 </div>
