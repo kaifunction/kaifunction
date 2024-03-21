@@ -44,14 +44,21 @@
 
 <h2>Projects</h2>
 <div>
- <p style="text-decoration: none;">
-    <a href="https://tunetrax.onrender.com/">TuneTrax</a> is a clone SoundClone group project.
+<p>
+    <a href="https://tunetrax.onrender.com/">TuneTrax</a> is a SoundClone clone group project.
 </p>
-<a href="https://kai-api-project.onrender.com/">
- <img src="https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white">
-</a>
-<a href="https://kai-solo-project.onrender.com/">
-  <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white">
-</a>
+<p>
+  <a href="https://kai-api-project.onrender.com/">Airbnb</a> is a Airbnb clone web.
+</p>
+
+
+<p>
+  <a href="https://kai-solo-project.onrender.com/">VibeVision</a> is a Pinertest clone web.
+</p> 
   
+</div>
+
+<h2>Educations</h2>
+<div>
+  <p>Software Enginner at App Academy</p>
 </div>
