@@ -1,4 +1,4 @@
-<h1>Hi there 👋</h1>
+<h1>Hi 👋, I'm Kai!</h1>
 
 <h2>Links</h2>
 <div>
@@ -58,6 +58,7 @@
   
 </div>
 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <h2>Educations</h2>
 <div>
   <p>Software Enginner at App Academy</p>
