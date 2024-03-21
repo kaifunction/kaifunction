@@ -1,8 +1,12 @@
-<h1>Hi 👋, I'm Kai!</h1>
+<h1  align="center">Hi 👋, I'm Kai!</h1>
+<div id='header' align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGsyeGtpdTJxcXAyY3Y4OW9oY2xicnVpYWE2ajVhYjNwYTFwMzZsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" />
+</div>
 
-<h2>Links</h2>
+
+<h2  align="center">Links</h2>
 <div>
-  <div>
+  <div  align="center">
     <a href="www.linkedin.com/in/kai-feng-swe-gd">
     <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white" />
     </a>
@@ -18,8 +22,9 @@
   </div>
 </div>
 </br>
-<h2>Skills</h2>
-<div>
+
+<h2  align="center">Skills</h2>
+<div  align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
@@ -42,8 +47,8 @@
 </div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-<h2>Projects</h2>
-<div>
+<h2  align="center">Projects</h2>
+<div  align="center">
 <p>
     <a href="https://tunetrax.onrender.com/">TuneTrax</a> is a SoundClone clone group project.
 </p>
@@ -59,7 +64,7 @@
 </div>
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<h2>Educations</h2>
-<div>
+<h2  align="center">Educations</h2>
+<div  align="center">
   <p>Software Enginner at App Academy</p>
 </div>
