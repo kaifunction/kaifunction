@@ -92,9 +92,9 @@
 
 <h2 align="center"> :fire: My Stats :</h2>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kaifunction" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kaifunction&theme=highcontrast&hide_border=true&card_width=500" alt="GitHub Streak" /></a>
 </div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <div align="center">
-  <img src='[![GitHub Streak](https://streak-stats.demolab.com/?user=kaifunction)](https://git.io/streak-stats)' />
+  <img src='https://streak-stats.demolab.com/?user=kaifunction' />
 </div>
