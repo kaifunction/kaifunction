@@ -96,7 +96,9 @@
 </div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <div align="center">
-<!--   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=kaifunction&layout=compact&theme=dark&hide_border=true' /> -->
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=kaifunction&layout=compact&theme=dark&hide_border=true' />
+<!--   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=kaifunction&layout=compact' /> -->
+</div>
+<div align="center">
   <img src='https://github-readme-stats.vercel.app/api?username=kaifunction&show_icons=true' />
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=kaifunction&layout=compact' />
 </div>
