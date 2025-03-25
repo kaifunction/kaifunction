@@ -92,7 +92,7 @@
 
 <h2 align="center"> :fire: My Stats :</h2>
 <div align="center">
-  <img src='https://github-readme-streak-stats.herokuapp.com?user=kaifunction&theme=radical&hide_border=true&background=000000' />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kaifunction" alt="GitHub Streak" /></a>
 </div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <div align="center">
