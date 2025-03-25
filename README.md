@@ -96,5 +96,5 @@
 </div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <div align="center">
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=kaifunction&layout=compact&theme=vision-friendly-dark' />
+  <img src='https://streak-stats.demolab.com/?user=kaifunction&theme=highcontrast' />
 </div>
