@@ -96,5 +96,5 @@
 </div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <div align="center">
-  <img src='https://streak-stats.demolab.com/?user=kaifunction&theme=highcontrast' />
+  <img src='[![GitHub Streak](https://streak-stats.demolab.com/?user=kaifunction)](https://git.io/streak-stats)' />
 </div>
